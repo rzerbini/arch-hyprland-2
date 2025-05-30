@@ -1,2 +1,2 @@
 # arch-hyprland-2
-the huprland on archlinux
+the hyprland on archlinux
