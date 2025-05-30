@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xfburn-settings>
+	<setting name="show-filebrowser" type="boolean" value="false"/>
+	<setting name="show-toolbar" type="boolean" value="false"/>
+</xfburn-settings>
