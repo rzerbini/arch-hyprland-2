@@ -29,3 +29,6 @@ sudo pacman -S ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts 
 
 systemctl --user enable pipewire pipewire-pulse wireplumbe
 
+
+##
+Link  https://www.youtube.com/watch?v=svslchL12Nw
