@@ -26,7 +26,7 @@ yay -S ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts ttf-droi
 
 ## Hablilita
 
-systemctl --user enable pipewire pipewire-pulse wireplumbe
+systemctl --user enable pipewire pipewire-pulse wireplumber
 
 
 ##
