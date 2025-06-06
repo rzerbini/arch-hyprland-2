@@ -4,7 +4,7 @@ the hyprland on archlinux
 
 ## Load Basics - Sound
 
-sudo pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse wireplumber gstreamer gst-libav \ 
+sudo pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse wireplumber gstreamer gst-libav /
 gst-plugins-good gst-plugins-bad gst-plugins-ugly ffmpeg
 
 ## Install Yay
