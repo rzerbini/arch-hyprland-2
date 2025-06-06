@@ -7,7 +7,7 @@ the hyprland on archlinux
 sudo pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse wireplumber gstreamer gst-libav \ 
 gst-plugins-good gst-plugins-bad gst-plugins-ugly ffmpeg
 
-
+## Install Yay
 
 sudo pacman -S git
 
