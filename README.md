@@ -11,7 +11,9 @@ sudo pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse wireplumber g
 sudo pacman -S git
 
 git clone https://aur.archlinux.org/yay.git 
+
 cd yay 
+
 makepkg -si
 
 rm -rf yay
